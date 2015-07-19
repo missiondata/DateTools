@@ -27,3 +27,7 @@
 #import "DTTimePeriodGroup.h"
 #import "DTTimePeriodCollection.h"
 #import "DTTimePeriodChain.h"
+
+FOUNDATION_EXPORT double DateToolsVersionNumber;
+
+FOUNDATION_EXPORT const unsigned char DateToolsVersionString[];
